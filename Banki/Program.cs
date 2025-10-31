@@ -10,3 +10,4 @@ nuki.Deposit(100);
 TBC.Transfer(nuki.accountNumber, zuragg.accountNumber, 40);
 nuki.DisplayInfo();
 zuragg.DisplayInfo();
+// js testing
