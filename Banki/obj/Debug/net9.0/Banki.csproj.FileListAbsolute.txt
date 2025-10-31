@@ -1,0 +1,14 @@
+C:\Users\gurab\source\repos\Banki\Banki\bin\Debug\net9.0\Banki.exe
+C:\Users\gurab\source\repos\Banki\Banki\bin\Debug\net9.0\Banki.deps.json
+C:\Users\gurab\source\repos\Banki\Banki\bin\Debug\net9.0\Banki.runtimeconfig.json
+C:\Users\gurab\source\repos\Banki\Banki\bin\Debug\net9.0\Banki.dll
+C:\Users\gurab\source\repos\Banki\Banki\bin\Debug\net9.0\Banki.pdb
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\Banki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\Banki.AssemblyInfoInputs.cache
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\Banki.AssemblyInfo.cs
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\Banki.csproj.CoreCompileInputs.cache
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\Banki.dll
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\refint\Banki.dll
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\Banki.pdb
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\Banki.genruntimeconfig.cache
+C:\Users\gurab\source\repos\Banki\Banki\obj\Debug\net9.0\ref\Banki.dll
